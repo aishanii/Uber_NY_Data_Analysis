@@ -1,4 +1,4 @@
-# Uber_NY_Data_Analysis
+# Uber_NewYork_Data_Analysis
 This project is an analysis of the 'Uber Pickups in NYC' dataset. 
 
 Throughout the project, various questions regarding the Uber pickup-trends in and around New York have been answered which can be
